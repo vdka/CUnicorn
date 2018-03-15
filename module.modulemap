@@ -1,0 +1,4 @@
+module CUnicorn [system] {
+    header "shim.h"
+    export *
+}
